@@ -363,16 +363,16 @@ True, many of our comrades have been captured. What's more concerning is our gro
 DORUN
 We can help each other.
 
-Dorun motions for everyone to gather around a large center console in the middle of the room. After punching a few buttons a 3D hologram appears suspended from the base of the console. The hologram shows 3D blueprints of a large facility. Different sections highlight in a loop, notes pointing to different rooms/sections.
+Dorun motions for everyone to gather around the cylindrical console. After punching a few buttons a 3D hologram appears suspended from the base of the console. The hologram shows 3D blueprints of a large facility. Different sections highlight in a loop, notes pointing to different rooms/sections.
 
 DORUN
-This is the Governor's Fortress. Since the Empire took control, this facility has become the center of government administration for the entire planet. If the Inhibitor is going to be anywhere, it'll be here.
+This is the Governor's Fortress. Since the Empire took control, this facility has become the center of government administration for the entire planet. If the Inhibitor is going to be anywhere, it will be here.
 
 EKELLE
 That complex is huge. The Inhibitor could be anywhere in there.
 
 DORUN
-Not necessarily. An inhibitor that can stop ships planet-wide is going to be large. Very large. Also, it had to be installed quite recently or we would have seen the signs.
+An inhibitor that can stop ships planet-wide is going to be large. Very large. Also, it had to be installed quite recently or we would have seen the signs.
 
 ELLIS
 Has there been any large construction efforts near the Fortress?
@@ -380,11 +380,14 @@ Has there been any large construction efforts near the Fortress?
 DORUN
 I don't know. We could only get blueprints from the initial construction.
 
-ELLIS
-So we don't know about any changes since it was built.
+TARSIS
+So we don't know about any changes since it was built. Great.
 
 KURDEER
-But *we* do. We have been watching the Fortress for some time. On the west side of the fortress, here **[points to blueprint]**, an extension to the spaceport is underway. Security is high there. Too high for simple construction.
+But *we* do. We have been watching the Fortress for some time. On the west side, here **[points to blueprint]**, an extension to the spaceport is underway.
+
+EKELLE
+Security is high there. Too high for simple construction.
 
 DORUN
 That's it. I think I might be impressed after all.
@@ -401,14 +404,14 @@ Kurdeer eyes Dorun suspiciously.
 [Commerical Break]
 
 INT. CREW FREIGHTER: MAIN ROOM
-Establishing shot of the Windswift in a crowded public shipyard.
+Establishing shot of the Windswift in a crowded public shipyard. Cut to inside the main room of the ship.
 
 KURDEER
 (hostile)
 You want us to do what!?
 
 EKELLE
-You really do think we are stupid.
+You really don't have any respect for us.
 
 DORUN
 It's the only way.
@@ -423,7 +426,7 @@ KURDEER
 Let me get this straight. You want to us to march up to the Restricted Zone checkpoint and *get arrested*?
 
 DORUN
-Well, I'll be the one arresting you, yes.
+Well, I'll be the one arresting you, but yes that's the jist.
 
 KURDEER
 Who do you think you are?
@@ -445,11 +448,10 @@ Kurdeer aquiesces, turns back to group.
 
 KURDEER
 (begrudgingly)
-Fine. We will be at the Bazaar as you ask.
+Fine. We will be at the Bazaar. If this is some trick-
 
 DORUN
-(To Ekelle)
-Thank you.
+It's not a trick. (To Ekelle) Thank you.
 
 EKELLE
 I am placing everything I hold dear into your hands. You know that.
@@ -457,8 +459,8 @@ I am placing everything I hold dear into your hands. You know that.
 DORUN
 I know.
 
-KURDEER
-I hope you know what you're doing, Dorun Ryzter Pepsin.
+EKELLE
+I hope you know what you're doing.
 
 Close-up on Dorun
 
