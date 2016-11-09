@@ -294,7 +294,7 @@ One gun, Tarsis. You'll raise suspicion.
 ELLIS
 He'll raise hell.
 
-Tarsis sniffs, but accepts. He pulls out a number of odd devices. laying out equipment on the table.
+Tarsis sniffs, but accepts. He pulls out a number of odd devices, laying the equipment out on the table.
 
 TARSIS
 (Petuently)
@@ -326,7 +326,7 @@ He stole it.
 ELLIS ^
 He stole it.
 
-Enter Ekelle with KURDEER.
+Enter Ekelle with KURDEER, a Middle Eastern man who looks like he's endured a hard life.
 
 DORUN
 How did you get on my ship? How did you even know where my ship was?
@@ -335,8 +335,8 @@ EKELLE
 Perhaps you should give the Resistance more credit.
 
 DORUN
-(To KURDEER)
-We'll see. I don't like strangers on my ship.
+(To Kurdeer)
+We'll see about that. I don't like strangers on my ship.
 
 KURDEER
 I am Kurdeer.
@@ -345,8 +345,7 @@ DORUN
 Well Kurdeer you can call me Dor-
 
 KURDEER
-(interrupting)
-You are Dorun Pepsis Ryzer, owner of the cargo freighter *Windswift* and the legitimate trading business you run from it. Of course, that's just a front for the blackmarket and mercenary outfit you run.
+You are Dorun Pepsis Ryzer, owner of the cargo freighter *Windswift* and the legitimate trading business you run from it. Of course, that's a front for the blackmarket and mercenary outfit you run.
 
 DORUN
 You know my middle name. Ellis didn't even know my middle name. Perhaps I *should* give your little rebellion more credit.
@@ -361,7 +360,7 @@ KURDEER
 As you wish, Dorun. Although now that I see this ship, I do not think Windswift is an appropriate name.
 
 DORUN
-She's faster than she looks!
+She's faster than she looks.
 
 KURDEER
 I doubt that. Regardless, Ekelle has convinced me to meet with you.
@@ -420,7 +419,7 @@ DISSOLVE TO:
 
 INT. IMPERIAL INHIBITOR; GOVERNORS FORTRESS; PLANET GULON II
 
-A beautiful, statuesque blonde with an aura of absolute authority; Imperial Adjunct STEELA POLIS stands at a console, aides bustling around her. Hologram projections flank the Adjunct showing supply rates, troop positioning and other logitical information.
+The camera shows a beautiful, statuesque blonde with a clean, commanding uniform. With an aura of absolute authority, Imperial Adjunct STEELA POLIS stands at a console, aides bustling around her. Hologram projections flank the Adjunct showing supply rates, troop positioning and other logitical information.
 
 She taps at the holograms, dismissing some, highlighting others. An Aide, HARPER, approaches with a holographic tablet in hand, saluting Steela.
 
@@ -434,25 +433,27 @@ STEELA
 Tell them to work with what they have. It is imperitive the Inhibitor stays active.
 
 HARPER
-Yes, sir. Also, raids against high-value rebel targets are completed, but were less successful than projected.
+Yes, sir. Also, raids against rebel safehouses are complete, but were less successful than projected.
 
 STEELA
 Explain.
 
 HARPER
-Many raid targets were empty by the time we got there.
+Many were empty by the time we got there.
+
+Steela waits a beat, considering.
 
 STEELA
 Bad intel?
 
 HARPER
-We're interrogating our informants now, but it appears the targets were warned by an outside source.
+We're interrogating our informants now, but it appears the targets were warned by an *outside* source.
 
 Steela frowns.
 
 STEELA
 (to herself)
-There's an unknown variable here. (To Harper) Get me the raid debriefings. Something is off.
+There's an unknown variable here. (To Harper) Get me the raid debriefings. Something is off, and we can't afford any surprises.
 
 HARPER
 Yes sir, right away sir.
@@ -470,12 +471,12 @@ Everyone out!
 STEELA
 Halt! Everyone stays.
 
-Kassus snarls, he's not used to be outranked. He stalks towards Steela.
+Everyone in the room shifts uncomfortably, unsure of the protocol. No one leaves, and Kassus snarls- not used to be outranked. He stalks towards Steela.
 
 GOVERNOR KASSUS
-Do you have any idea the danger you've put us in? Your orders have put my entire defense force in disarray. Hell the Fortress is nearly undefended, the enemy could walk right in!
+Do you have any idea the danger you've put us in? Your orders have put my entire defense force in disarray. Hell the Fortress is nearly undefended, rebels could walk right in!
 
-Steela wait a long beat before answering. Aides and attendents in the room are straining to appear uninterested.
+Steela wait a long beat before answering. Aides and attendents in the room strain to appear uninterested.
 
 STEELA
 Kassus, you are simple, weak, coward.
@@ -525,7 +526,7 @@ GOVERNOR KASSUS
 And if the rebels do find a way to attack the fortress?
 
 STEELA
-I don't want to be on this planet any longer than I have to, Governor. Paltry rebel groups attacking this Fortress is a risk I'm willing to take.
+I don't want to be on this planet any longer than I have to be, Governor. Attacking this Fortress would be a suicide mission.
 
 GOVERNOR KASSUS
 But-
@@ -538,7 +539,7 @@ Kassus nearly chokes at the abrupt dismissal.
 GOVERNOR KASSUS
 Yes, sir.
 
-Kassus leaves, walking quickly while snapping at his attendents. Steela is briefly pleased before returning to her reports. 
+Kassus leaves, walking quickly while snapping at his attendents. Steela is briefly pleased before returning to her reports.
 
 DISSOLVE TO:
 
@@ -551,7 +552,7 @@ KURDEER
 You want us to do what!?
 
 EKELLE
-You really don't have any respect for us.
+This is a suicide mission!
 
 DORUN
 It's the only way.
@@ -588,7 +589,7 @@ Kurdeer aquiesces, turns back to group.
 
 KURDEER
 (begrudgingly)
-Fine. We will be at the Bazaar. If this is some trick-
+Fine. We will be at the Bazaar as you ask. If this is some trick-
 
 DORUN
 It's not a trick. (To Ekelle) Thank you.
@@ -619,12 +620,12 @@ DORUN
 Ekelle, Kurdeer. I see you're here but where are your rebel friends?
 
 EKELLE
-You only see them when you want to see them.
+You only see them when we want you to see them.
 
-Ekelle motions with her hand. Around the group several poorly dressed rebels appear from nowhere.
+Ekelle motions with her hand. Several poorly dressed rebels appear from nowhere, evidently blended in with the area.
 
 DORUN
-Very good. My officer alias should get us through the checkpoint. With any luck we'll walk right through.
+Very good. Alright, the alias I have for this uniform should get us through the checkpoint. With any luck we'll walk right through.
 
 ELLIS
 And if we don't have any luck?
@@ -709,7 +710,7 @@ The officer casts a look of disgust across the rebels
 CHECKPOINT OFFICER
 Come.
 
-The Officer leads Dorun his private office in the main guardhouse. The office is well furnished. Hand-sized native statues stand on a cabinent on one of the walls. As the officer leans on his main desk, Dorun goes to the statues.
+The Officer leads Dorun his private office in the main guardhouse. The office is well furnished. Hand-sized native statues stand on a cabinet on one of the walls. As the officer leans on his main desk, Dorun goes to the statues.
 
 CHECKPOINT OFFICER
 Well?
@@ -720,7 +721,7 @@ These are original Gulonese ritual statues, aren't they?
 CHECKPOINT OFFICER
 Cut the crap, Junior Dominant.
 
-Dorun leans back against the cabinet.
+Dorun turns toward the Officer and leans back against the cabinet.
 
 DORUN
 Sir, my orders are to publicly arrest and transport those informants.
@@ -803,7 +804,7 @@ I'll have you buried Junior Dominant, you hear me, buried!
 Dorun swings the statue across the head of the Officer. He's unconscious before he hits the ground. Dorun rushes to the door, listening to see if anyone outside heard. Satisfied, he goes to the console on the main desk, authorizing a transport. Dorun moves to the Officer, taking a keycard and a communicator. He takes a moment to compose himself.
 
 DORUN
-Looks like you'll be the one buried.
+Looks like you'll be the one getting buried.
 
 Dorun leaves the office, closing the door before returning to the group.
 
@@ -839,18 +840,15 @@ DORUN
 You'll have to. We'll need this transport to get back our ship.
 
 ELLIS
-And the pilot already assigned to fly it?
+The pilot assigned to fly the transport won't like that idea.
 
 DORUN
-He'll have to be removed.
+You'll have to convince him otherwise.
 
 ELLIS
-How are we supposed to do that?
+Me?
 
-DORUN
-You mean how are *you* supposed to do it. Figure it out.
-
-Ellis blanches, but covers it quickly. Tarsis directs the rebels into the rear section, closing the doors. Dorun, Ellis and Tarsis get in the front.
+Dorun nods. Tarsis directs the rebels into the rear section, closing the doors. Dorun, Ellis and Tarsis get in the front.
 
 INT. TROOP TRANSPORT COCKPIT
 
@@ -871,7 +869,7 @@ ELLIS
 Ah... We... We need you to wait for us once we land.
 
 PILOT
-What are you talking about? That's not protocol.
+What are you talking about?
 
 Dorun shoots Ellis with a "Not good enough" expression. Ellis considers his options. He moves to speak again, but stops before saying anything. He grows frustrated, then realizes what he's going to do. He looks to Dorun, then the Pilot.
 
@@ -882,9 +880,9 @@ Sorry about this.
 PILOT
 What?
 
-Ellis punches the Pilot hard. The transport lurches, in the back the rebels fall over with the unexpected change in course. The Pilot tries to grab Ellis, who attempts to strike the pilot again. The Pilot fends off the attack, getting a decent hold on Ellis and pulls him down. From his viewpoint, Ellis sees an "Eject" lever. Ellis breaks from the Pilots grip, strikes again, then puts both hands on the lever. The pilot looks down, realizing what Ellis is going to do. He looks back up to Ellis, giving him a pleading look.
+Ellis punches the Pilot hard. The transport lurches, a quick camera shot in the back shows the rebels falling over with the unexpected shift. The Pilot tries to grab Ellis, who attempts to strike the pilot again. The Pilot fends off the attack, getting a decent hold on Ellis and pulling him down. From his viewpoint, Ellis sees an "Eject" lever. Ellis breaks from the Pilots grip, strikes again, then puts both hands on the lever. The pilot looks down, realizing what Ellis is going to do. He looks back up to Ellis, giving him a pleading look.
 
-Ellis pulls the lever. The Pilots chair explodes laterally from his side of the ship. The other seats are unaffected. The room roars as air rushes in the cockpit. Ellis stuggles to get the ship back under control. He finally gets the ship back on course and puts on the comm helmet.
+Ellis pulls the lever. The Pilots chair explodes laterally from his side of the ship. The other seats are unaffected, and Ellis flails to catch his grip. The room roars as air rushes in the cockpit. Ellis manages to get back into his seat, and stuggles to get the ship back under control. He finally gets the ship back on course and puts on the comm helmet.
 
 CUT TO:
 
@@ -928,10 +926,10 @@ ELLIS
 If you say so, she's running smooth on my end.
 
 FLIGHT CONTROLLER
-Transport Three-Seven-Two you're hereby ordered to Shipyard B-Seven-Alpha for immediate diagnostics and repair.
+Transport Three-Seven-Two you're hereby ordered to Shipyard B-Nine-Alpha for immediate diagnostics and repair.
 
 ELLIS
-Right after I finish this mission.
+Right after I finish this flight.
 
 FLIGHT CONTROLLER
 Sir when Flight Control gives you an order, you follow it immediately.
@@ -961,6 +959,7 @@ I just did!
 Tarsis leans to Dorun as Ellis continues to tell the Flight Controller off.
 
 TARSIS
+(privately to Dorun)
 He enjoys this a bit too much...
 
 ELLIS
