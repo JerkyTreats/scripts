@@ -366,10 +366,13 @@ EKELLE
 That facility is huge. The Inhibitor could be anywhere in there.
 
 DORUN
-An inhibitor that can stop ships planet-wide is going to be large. Very large. Also, it would have to be installed quite recently, or we would have seen the signs.
+An inhibitor this powerful is going to be large. Very large.
 
 ELLIS
-Has there been any large construction efforts near the Fortress?
+Also, it would have to be installed quite recently, or we would have seen the signs.
+
+TARSIS
+Is there any large construction efforts at the Fortress?
 
 DORUN
 I don't know. We could only get blueprints from the initial construction.
@@ -384,14 +387,13 @@ EKELLE
 Security is high there. Too high for simple construction.
 
 DORUN
-That has to be it. I think I might be impressed after all.
+That's it. I think I might be impressed after all.
 
 TARSIS
 So how do we get in?
 
 DORUN
-(To Kurdeer)
-You're not going to like this.
+*[To Kurdeer]* You're not going to like this.
 
 Kurdeer eyes Dorun suspiciously.
 
@@ -399,20 +401,45 @@ DISSOLVE TO:
 
 INT. IMPERIAL INHIBITOR; GOVERNORS FORTRESS; PLANET GULON II
 
-The camera shows a a commanding woman in a sharp Imperial uniform, hair pulled back in a severe ponytail. With an aura of absolute authority, Imperial Adjunct STEELA POLIS stands at a console, aides bustling around her. Hologram projections flank the Adjunct showing supply rates, troop positioning and other logistical information.
+Open to see a commanding woman in a sharp Imperial uniform, long blonde hair pulled back in a severe ponytail. With an aura of absolute authority, Imperial Adjunct STEELA POLIS stands at a console, aides bustling around her. Hologram projections flank the Adjunct showing supply rates, troop positioning and other logistical information. She taps at the holograms, dismissing some, highlighting others.
 
-She is in the Planetary Ship Inhibitor room, a vast canvernous hanger with a complex machine spanning the length of it. Engineers huddle near open compartments of the machine at various locations of the machine. A low, recurring "WUMP" sounds from the Inhibitor, indicating the Inhibitor is working.
+She is in the Planetary Ship Inhibitor room, a cavernous hanger with a complex machine spanning the length of it. Engineers huddle near open compartments of the machine at various locations. A low, recurring "WUMP" sounds from the Inhibitor.
 
-Steela has a desk setup to the side of the room. Uncluttered, albiet with small cylindrical emitters that support floating holographic panels. She taps at the holograms, dismissing some, highlighting others. An Aide, HARPER, approaches with a holographic tablet in hand, saluting Steela.
+An Aide, HARPER, approaches with a holographic tablet in hand, saluting Steela. A young woman, brown hair in a simple bun. Attractive, but with tired eyes of someone working an endless, thankless job.
+
+HARPER
+You called for me, sir?
+
+*[All superior officers are referred to as sir, regardless of gender]*
 
 STEELA
 Status Report.
 
 HARPER
-Troop positioning planet-wide is underway, as per your orders. The Inhibitor is running sufficiently, but Engineering continues to report facily-wide system failures due to the power required to operate it.
+Planet-wide troop deployment is underway-
 
 STEELA
-Tell them to work with what they have. It is imperitive the Inhibitor stays active.
+How long until complete?
+
+Harper stifles frustration, she was just about to say that.
+
+HARPER
+Under six hours, sir. The majority of deployments are complete.
+
+STEELA
+We don't move until all troops are in place. Everything must be perfect. This purge will end the Insurgency in one strike.
+
+HARPER
+Yes sir.
+
+STEELA
+What else?
+
+HARPER
+The Inhibitor is running sufficiently, but Engineering continues to report facily-wide system failures due to the power required to operate it.
+
+STEELA
+They'll have to deal with it. The Inhibitor stays up at all costs.
 
 HARPER
 Yes, sir. Also, raids against rebel safehouses are complete, but were less successful than projected.
@@ -434,15 +461,14 @@ We're interrogating our informants now, but it appears the targets were warned b
 Steela frowns.
 
 STEELA
-(to herself)
-There's an unknown variable here. (To Harper) Get me the raid debriefings. Something is off, and we can't afford any surprises.
+*[to herself]* There's an unknown variable here. *[To Harper]* Get me the raid debriefings. Something is off, we can't afford any surprises.
 
 HARPER
 Yes sir, right away sir.
 
 Harper retreats. As she leaves through the door, GOVERNOR KASSUS enters. A belligerent man with a receding hairline and a glib demeanor.
 
-AIDE
+GUARD
 Atten-HUT!
 
 Everyone snaps to attention, not Steela. She closes her eyes, gathering strength to deal with another distraction.
@@ -453,7 +479,7 @@ Everyone out!
 STEELA
 Everyone stays.
 
-Everyone in the room shifts uncomfortably, unsure of the protocol. No one leaves, and Kassus snarls- not used to be outranked. He stalks towards Steela.
+Everyone in the room shifts uncomfortably. No one leaves. Kassus snarls, not used to be outranked. He stalks towards Steela.
 
 GOVERNOR KASSUS
 Do you have any idea the danger you've put us in? Your orders have put my entire defense force in disarray. Hell the Fortress is nearly undefended, rebels could walk right in!
@@ -463,11 +489,12 @@ Steela wait a long beat before answering. Aides and attendents in the room strai
 STEELA
 Kassus, you are simple, weak, coward.
 
-Kassus face flushes, rage building. Seeing this, Steela's head of security, OTIB, steps forward. He gives Kassus a threatening look. As the Governor regains control of his emotions, Steela dismisses Otib with a lazy hand gesture.
+Kassus face flushes, rage building. Seeing this, Steela's head of security, OTIB, steps forward. Dark skinned, shaved head, and a look of barely controlled rage. The look he gives Kassus prompts the Governor to regains control of his emotions.
+
+Seeing herself in clear control of the encounter, Steela dismisses Otib with a lazy hand gesture. Otib steps back, unblinking eyes remaining on Kassus.
 
 GOVERNOR KASSUS
-(tightly controlled)
-I had hoped, Steela, we could have a civil discussion-
+*[tightly controlled]* I had hoped, Steela, we could have a civil discussion-
 
 STEELA
 You refer to me as Adjunct, Kassus. Imperial Adjunct. The only one on this backwards planet that outranks you.
@@ -476,13 +503,13 @@ GOVERNOR KASSUS
 I am not disputing that, but I have several concerns-
 
 STEELA
-I am not disputing that *sir*. You don't seem to be getting the point, Governor.
+I am not disputing that, *sir*. You don't seem to be getting the point, Governor.
 
 GOVERNOR KASSUS
 Apologies... sir.
 
 STEELA
-Kassus, I have full authority over this planet. Troops, supplies, even you. I could order you to the front line if I wanted to.
+Kassus, I hold full authority over this planet. Troops, supplies, even you. I could order you to the front line if I wanted to.
 
 Kassus blanches at the prospect.
 
@@ -492,15 +519,15 @@ You wouldn't dare!
 STEELA
 Try me.
 
-Kassus waits before answering, his anger subsiding as he swallows his pride.
+Kassus waits before answering, his anger subsiding as he swallows his pride. He steels himself:
 
 GOVERNOR KASSUS
-With respect... Sir... It is my duty to raise concerns about your coming offensive. My... Our troops are stretched too thin. This Fortress is barely defended.
+With respect... Sir... It is my duty to raise concerns about your coming offensive. My... *Our* troops are stretched too thin. This Fortress is barely defended.
 
-Steela lightens slightly hearing his tone.
+Steela considers. The deference is unmistakable, and she does respect him not backing down completely. Her tone lightens as she responds.
 
 STEELA
-Your concerns have been noted, Governor. The troops guarding this facility have been moved to reinforce key positions. This Inhibitor protects the Fortress now. Without ships no enemy can approach in force.
+Your concerns have been noted, Governor. The troops guarding this facility have been moved to help with the Purge. This Inhibitor protects the Fortress now. Without ships, no enemy can approach in force.
 
 GOVERNOR KASSUS
 And if the rebels do find a way to attack the fortress?
@@ -523,13 +550,9 @@ Kassus leaves, walking quickly while snapping at his attendents. Steela smiles, 
 
 DISSOLVE TO:
 
-INT. CREW FREIGHTER: MAIN ROOM
+INT. CREW FREIGHTER: MAIN ROOM - AFTERNOON
 
 Establishing shot of the Windswift in a crowded public shipyard. Cut to inside the main room of the ship.
-
-KURDEER
-(hostile)
-You want us to do what!?
 
 EKELLE
 This is a suicide mission!
@@ -561,18 +584,17 @@ EKELLE
 We'll do it.
 
 KURDEER
-What? Ekelle! He can't be trusted!
+What? Ekelle! He cannot be trusted!
 
-Kurdeer pulls Ekelle aside. A hushed, heated conversation ensues, words indistinguable. Body language shows Ekelle getting the upper hand. It's obvious they're "together".
+Kurdeer pulls Ekelle aside. A hushed, heated conversation ensues, words indistinguable. Body language shows Ekelle getting the upper hand. It's obvious they're "together". Ellis and Arianne share a look.
 
 Kurdeer aquiesces, turns back to group.
 
 KURDEER
-(begrudgingly)
 Fine. We will be at the Bazaar as you ask. If this is some trick-
 
 DORUN
-It's not a trick. (To Ekelle) Thank you.
+It's not a trick. *[To Ekelle]* Thank you.
 
 EKELLE
 Tell me, truthfully. Will this work?
@@ -582,9 +604,9 @@ It has to.
 
 DISSOLVE TO:
 
-EXT. CHECKPOINT BAZAAR - AKEEN SLUMS; GULON II
+EXT. CHECKPOINT BAZAAR - LATE AFTERNOON
 
-Open to show Dorun, Ellis, and Tarsis walking through an abandoned bazaar. Stalls are fully stocked, animals feast on unguarded foodstuffs, it looks like the area was abandoned in a hurry. The trio are on edge as they make their way through the bazaar.
+Open to show Dorun, Ellis, and Tarsis walking through an abandoned bazaar. Stalls are fully stocked, stray animals feast on unguarded foodstuffs, it looks like the area was abandoned in a hurry. The trio are on edge as they make their way through the bazaar.
 
 TARSIS
 Where is everyone?
@@ -601,7 +623,7 @@ Especially us.
 As they pass through the bazaar they nearly miss Ekelle and Kurdeer standing inconspicuously near one of the stalls.
 
 EKELLE
-Psst.
+Over here.
 
 The trio spin nervously, raising their weapons.
 
@@ -620,7 +642,7 @@ You do not see them?
 Ekelle motions with her hand. Several poorly dressed rebels appear from nowhere, evidently blended in with the area.
 
 DORUN
-Very good. Alright, my alias should get us through the checkpoint. With any luck we'll walk right through.
+Very good. Alright, my alias should get us through the checkpoint. With any luck, we'll walk right through.
 
 ELLIS
 And if we don't have any luck?
@@ -638,12 +660,10 @@ MOVE IT YOU SLOVENLY LOT. I HAVEN'T SEEN A SADDER DISPLAY OF SLUMRATS IN MY ENTI
 The rebel group is surprised, some taking offence.
 
 TARSIS
-(conspiratorially)
-This won't work if it looks like you're going to jump me, put your heads down and play the part... AND IF I SEE SO MUCH AS A FINGER OUT OF PLACE I'LL PERSONALLY RIP YOUR THROAT OUT.
+*[Conspiratorially]* This won't work if it looks like you're going to jump me, put your heads down and play the part... AND IF I SEE SO MUCH AS A FINGER OUT OF PLACE I'LL PERSONALLY RIP YOUR THROAT OUT.
 
 ELLIS
-(privately to Dorun)
-He enjoys this a bit too much...
+[Privately to Dorun] He enjoys this a bit too much...
 
 The group, led by the Imperial-disguised crew march towards the checkpoint.
 
