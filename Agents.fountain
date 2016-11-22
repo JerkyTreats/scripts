@@ -1405,7 +1405,7 @@ They won't be far behind, we need to move.
 Dorun pulls up the holographic Fortress Blueprint from his wristband. Several levels zoom in to find the exact floorplan of their location.
 
 DORUN
-We're close to a small armory. They should have explosives. We get the explosives, blow up the Inhibitor, get back to the ship and off this planet.
+We're several levels above the Inhibitor. We *are* close to a small armory. They should have explosives. We get the explosives, blow up the Inhibitor, get back to the ship and off this planet.
 
 All eyes are on Dorun as he starts down one of the hallways.
 
@@ -1552,24 +1552,34 @@ But it's not the only exit.
 The three look to Dorun confused. Dorun takes out the explosives.
 
 DORUN
-Take these and place them around the room.
+Take these and place them around the edges of the room.
 
-The three carefully place the explosives along the edges of the room. They meet back together.
-
-DORUN
-This is going to be loud and painful. Do it.
-
-Ellis tosses a bag of explosives out the door. A large explosion is seen as laser fire hit the bag.
+The three carefully place the explosives along the edges of the room. They meet back together. Ellis is flush against the entrance wall.
 
 DORUN
-Everyone in the middle of the room!
+*[To Ellis]* Do it.
 
-Rebels and the crew huddle together in the middle of the room. Dorun closes his eyes.
+Ellis tosses a bag of explosives out the door. A large explosion outside the armory is seen as laser fire hits the bag. Dorun rushes to the middle of the room.
 
 DORUN
-Hold on!
+Everyone, get as close to me as you can!
 
-Dorun presses the small trigger in his hand. The room around them explodes. The explosives blow holes in the floor and the floor below the group falls to the level below. Dust and debris scatter as the group picks themselves up from the rubble.
+Rebels and the crew huddle together around Dorun.
+
+DORUN
+Closer, closer, get nice and cozy-
+
+Dorun closes his eyes.
+
+DORUN
+This isn't going to be pleasant.
+
+Dorun presses the small trigger in his hand. The room around them explodes. We the explosives blow holes in the floor. All goes quiet. Dorun opens his eyes, looking around slightly deflated.
+
+DORUN
+Well that didn't-
+
+Mid-sentence the floor below the group falls to the level below. The group lands, falling over one another. Dust and debris is dumped on the group as they picks themselves up from the rubble.
 
 CUT TO:
 
@@ -1585,7 +1595,7 @@ Otib walks up to the entrance, which is deformed and covered with large debis.
 OTIB
 Fall in. We will not allow them slip away again.
 
-Otib jogs down the hallway in search of his prey. Troopers fall in behind him.
+Otib jogs down the hallway in search of his prey. Troopers fall in behind him, leaving their injured squad-mates.
 
 CUT TO:
 
@@ -1607,6 +1617,9 @@ Ellis's armor is clearly ripped.
 ELLIS
 Good thing I was just borrowing this.
 
+TARSIS
+Good thing you were wearing it. Whatever tore through that armor would have tore through you.
+
 EKELLE
 Where are we?
 
@@ -1618,7 +1631,7 @@ Dorun pulls up the blueprint, searching for their current position.
 DORUN
 Hmm. There's a detention center that way.
 
-Dorun point down a hallway.
+Dorun points down one end of the room.
 
 DORUN
 But the Inhibitor is this way.
@@ -1626,10 +1639,10 @@ But the Inhibitor is this way.
 Dorun points to the other direction.
 
 KURDEER
-We're close to the prison? Our comrades are there.
+We're close to the prison? Our comrades must be there.
 
 EKELLE
-We must free them.
+If we free them, the Resistance stands a chance.
 
 Dorun thinks for a moment, then nods.
 
@@ -1639,13 +1652,13 @@ Go. We'll destroy the Inhibitor.
 Dorun points to a section of the blueprint.
 
 DORUN
-There's a small landing bay here. We'll meet you there once the Inhibitor is down.
+There's a small hanger here. Free the prisoners and there, we'll meet you once the Inhibitor is down.
 
 ELLIS
 Let's go.
 
 DORUN
-Not you. We need to blend in, your armor is a dead giveaway.
+Not you. We need to blend in, you're a dead giveaway with your armor the way it is.
 
 ELLIS
 You can't-
@@ -1679,6 +1692,8 @@ The rebels leave, leaving Dorun and Tarsis alone.
 TARSIS
 I'm surprised we've made it this far.
 
+Dorun gives Tarsis a look.
+
 DORUN
 Let's go.
 
@@ -1688,7 +1703,7 @@ DISSOLVE TO:
 
 INT. INHIBITOR ROOM - EVENING
 
-Kassus enters the room imperiously. Attendents and aides flanking him.
+Kassus enters the room imperiously. Guards and aides flanking him.
 
 GOVERNOR KASSUS
 Imperial Adjunct.
@@ -1696,14 +1711,13 @@ Imperial Adjunct.
 Steela looks up from her console.
 
 STEELA
-(cooly)
 Governor.
 
 GOVERNOR KASSUS
-I can only assume that your mishandling of this situation is due to your inability to accept I was right.
+I can only assume that your mishandling of this situation, is due to your inability to accept I was right.
 
 STEELA
-The situation is under control.
+The situation is under control-
 
 GOVERNOR KASSUS
 Adjunct, I am shocked how out of control the situation has become. Insurgents able to infiltrate our defenses, explosives ripping the Fortress apart, and what few troopers we have defending the wrong target.
@@ -1712,10 +1726,10 @@ STEELA
 The Inhibitor must be the target!
 
 GOVERNOR KASSUS
-Adjunct, please. Their target is the prison. It has been all along.
+Adjunct, please. They're heading towards the prison. That's been their target all along.
 
 STEELA
-How would they escape even if they did free the prisoners?
+And how would they escape without ships?
 
 GOVERNOR KASSUS
 You give these rebels too much credit. They are a simple people with simple motivations.
@@ -1726,38 +1740,31 @@ They've been quite effective for "simple people".
 GOVERNOR KASSUS
 Yes, Adjunct. They have. Something I intend to put a stop to right now.
 
-The Governor steps away and addresses the troops in the room.
+STEELA
+These guards stay. My personal guard is pursuing the attackers.
 
 GOVERNOR KASSUS
-ATTEN-HUT!
+The guard that allowed them to gain entry in the first place? Adjunct.
 
-The troops snap to attention.
+Steela looks down, realizing she's losing ground. She reaches for her trump card.
 
-GOVERNOR KASSUS
-(speaking to room)
-Enemies of the state have attacked us. As we speak they are infiltrating the detention center, and if successful, will release some of the most dangerous enemies on the planet. I am going to stop them. Anyone who values the careful peace we have brought to Gulon Two is welcome to join me, else show your true colors.
-
-Troopers look uneasily at each other, then to Steela.
+STEELA
+I have full authority here-
 
 GOVERNOR KASSUS
-Now, who's with me.
+Adjunct, I am fully aware of your rank. But I do have friends, and what will they say when they hear how the "right hand of the Emperor" failed to stop a handful of rebels?
 
-Nothing at first. Then, a brutal-faced veteren steps forward.
+Steela looks up sharply. Kassus nods.
 
-VETEREN
-I'm with you, SIR. And so is everyone else.
+GOVENOR KASSUS
+You're rank, Adjunct, protects you from the politics of High Command. But only if you are effective. I am going to take these guards, and I'm going to kill these rebels, and when the dust settles your reputation will not be intact, but increased.
 
-Kassus looks at Steela, daring her to overrule him. Steela holds his gaze, calculating. She relents, assenting with a hand wave. Kassus looks supremely pleased as he turns.
+Kassus looks at Steela, daring her to overrule him. Steela holds his gaze, calculating. She relents, assenting with a hand wave. Kassus looks supremely pleased as he turns to ranks of Troopers in the room.
 
 GOVERNOR KASSUS
 Do not stop until we have killed every one of them.
 
-The veteren smiles as the troops form up.
-
-VETEREN
-On me!
-
-The troops file out. Kassus eyes Steela as the troops pass. Steela folds her arms, not giving Kassus a thing. As the last of the troops file out, Kassus gives a triumphant chin raise as he follows. Alone, Steela grabs a communicator from her workdesk.
+The Troopers file out. Kassus eyes Steela as the troops pass. Steela folds her arms, not giving Kassus a thing. As the last of the troops file out, Kassus gives a triumphant chin raise as he follows. Alone, Steela grabs a communicator from her workdesk.
 
 STEELA
 Otib, get back to the Inhibitor room. Now.
