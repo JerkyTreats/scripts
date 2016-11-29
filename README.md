@@ -4,17 +4,18 @@
 - Scene 3: Setup
 - Scene 4: Get Through Checkpoint
 - Scene 5: Mid-flight
-
-## TODO
-- Land at Fortress 
-- Fight Into the Fortress
-- Split Party
-- Get to the Inhibitor
-- Meet Villian
-- Escape 
-- Find Control Room
-- Meet Hacker
-- Convince Hacker to Disrupt Inhibitor
-- Escape Governer's Palace
-- Flee Planet
-- Villian announces vendetta against Protagonist
+- Scene 6: Land at Fortress 
+- Scene 7: Villian Warned
+- Scene 8: Armory 
+- Scene 9: Protagonist heads to Inhibitor
+- Scene 10: Support heads to Detention Center
+- Scene 11: Sacrifice at Detention Center
+- Scene 12: Arrive at the Inhibitor
+- Scene 13: Meet Villian
+- Scene 14: Escape 
+- Scene 15: Find Control Room
+- Scene 16: Meet Hacker
+- Scene 17: Get to Exit Hanger
+- Scene 18: Escape Governer's Palace
+- Scene 19: Flee Planet
+- Scene 20: Cue next episode
